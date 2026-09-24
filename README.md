@@ -1,4 +1,6 @@
 # GitHub
+[Udemy - Learn Git, GitHub and GitHub Actions](https://www.bilibili.com/video/BV1MJkQYgExD/?spm_id_from=333.788.videopod.episodes&vd_source=396d99df17169e23716a53b0fa85b893)
+- [part2](https://www.bilibili.com/video/BV1MJkQYgE89/?spm_id_from=333.337.search-card.all.click&vd_source=396d99df17169e23716a53b0fa85b893)
 
 ![Git](https://raw.githubusercontent.com/kouroshsalahshoor/Git/refs/heads/main/git.png)
 
